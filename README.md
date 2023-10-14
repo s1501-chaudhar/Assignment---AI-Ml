@@ -1,4 +1,4 @@
-# Assignment---AI-Ml
+# Translation Assignment---AI-Ml
 This code is a Python program that translates English text into Hinglish, a blend of Hindi and English, using a pre-trained neural machine translation (NMT) model. It uses the Hugging Face Transformers library, which is a powerful library for working with state-of-the-art NLP models.
 
 Here's a step-by-step explanation of the code:
